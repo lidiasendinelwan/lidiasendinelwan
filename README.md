@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is **Lidia Sendi Nelwan**.  
+I'm a student from the Department of Informatics Engineering, Faculty of Engineering, Sam 
+Ratulangi University.
